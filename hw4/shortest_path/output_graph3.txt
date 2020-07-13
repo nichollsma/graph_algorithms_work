@@ -1,0 +1,53 @@
+For BFS:
+C:\Users\Chust\PycharmProjects\searching_graphs\venv\Scripts\python.exe C:/Users/Chust/PycharmProjects/searching_graphs/BFS_for_graphs.py
+0 - 0
+0 - 8
+8 - 1
+0 - 3
+3 - 2
+0 - 3
+0 - 4
+0 - 5
+0 - 8
+8 - 6
+0 - 3
+3 - 7
+0 - 8
+0 - 8
+8 - 9
+0, 0, 0, 1, 1, 1, 0, 0, 1, 0,
+ 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+ 0, 0, 0, 1, 0, 0, 0, 0, 0, 0,
+ 1, 0, 1, 0, 0, 0, 0, 1, 0, 0,
+ 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+ 1, 0, 0, 0, 0, 0, 0, 0, 0, 0,
+ 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+ 0, 0, 0, 1, 0, 0, 0, 0, 0, 0,
+ 1, 1, 0, 0, 0, 0, 1, 0, 0, 1,
+ 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+
+Process finished with exit code 0
+
+For DFS:
+C:\Users\Chust\PycharmProjects\searching_graphs\venv\Scripts\python.exe C:/Users/Chust/PycharmProjects/searching_graphs/DFS_fpr_graphs.py
+0 -> 3
+3 -> 2
+3 -> 7
+7 -> 6
+6 -> 8
+8 -> 1
+8 -> 9
+0 -> 4
+4 -> 5
+0, 0, 0, 1, 1, 0, 0, 0, 0, 0,
+ 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+ 0, 0, 0, 1, 0, 0, 0, 0, 0, 0,
+ 1, 0, 1, 0, 0, 0, 0, 1, 0, 0,
+ 1, 0, 0, 0, 0, 1, 0, 0, 0, 0,
+ 0, 0, 0, 0, 1, 0, 0, 0, 0, 0,
+ 0, 0, 0, 0, 0, 0, 0, 1, 1, 0,
+ 0, 0, 0, 1, 0, 0, 1, 0, 0, 0,
+ 0, 1, 0, 0, 0, 0, 1, 0, 0, 1,
+ 0, 0, 0, 0, 0, 0, 0, 0, 1, 0,
+
+Process finished with exit code 0
