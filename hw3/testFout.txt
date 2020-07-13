@@ -1,0 +1,4 @@
+C:\Users\Chust\PycharmProjects\hw3\venv\Scripts\python.exe C:/Users/Chust/PycharmProjects/hw3/is_tree.py
+This graph is NOT a tree.
+
+Process finished with exit code 0
